@@ -1,4 +1,4 @@
-Below are the key interfaces of the application, ներկայացing the complete e-commerce workflow:
+Below are the key interfaces of the application, presenting the complete e-commerce workflow.
 
 ### 🖥️ 1. Product Listing Page
 Displays a collection of available products with images, pricing, ratings, and quantity selection. The layout is designed using a responsive grid system for better user experience across devices.
@@ -34,8 +34,20 @@ This project is built using modern web development technologies:
 - **Language:** JavaScript (ES6+)  
 - **Styling:** CSS / Custom Styling  
 - **State Management:** React Hooks (e.g., useState, useContext)  
-- **Architecture:** Component-based and modular design  
+- **Architecture:** Component-based and modular design
 
+- codeshield-ecommerce/
+│
+├── backend/
+│   ├── src/
+│   ├── server.js
+│
+├── frontend/
+│   ├── src/
+│   ├── App.js
+│
+├── README.md
+└── .gitignore
 
 ## 🛒 Features
 
