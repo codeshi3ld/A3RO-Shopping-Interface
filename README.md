@@ -25,7 +25,6 @@ ensuring smooth data flow across pages like Home, Checkout, and Orders.
 <img width="1593" height="855" alt="application setup   routing" src="https://github.com/user-attachments/assets/2b72de1a-61f7-4e4a-a181-09f91df6d452" />
 
 
-
 ## 🚀 Tech Stack
 
 This project is built using modern web development technologies:
@@ -35,8 +34,9 @@ This project is built using modern web development technologies:
 - **Styling:** CSS / Custom Styling  
 - **State Management:** React Hooks (e.g., useState, useContext)  
 - **Architecture:** Component-based and modular design
+  
 
-- codeshield-ecommerce/
+## codeshield-ecommerce/
 │
 ├── backend/
 │   ├── src/
@@ -48,6 +48,7 @@ This project is built using modern web development technologies:
 │
 ├── README.md
 └── .gitignore
+
 
 ## 🛒 Features
 
